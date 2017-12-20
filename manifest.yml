@@ -3,4 +3,4 @@ applications:
 - name: PetClinic
   instances: 1
   memory: 1024M
-  path: target/spring-boot-starter-parent-1.5.1.RELEASE.jar
+  path: target/spring-petclinic-1.5.1.jar
