@@ -1,0 +1,7 @@
+---
+applications:
+- name: ReportEngine
+  host: ReportEngine
+  instances: 2
+  memory: 2048M
+  path: target/LMWReportEngine-0.0.1-SNAPSHOT.jar
